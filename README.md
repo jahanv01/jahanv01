@@ -79,8 +79,8 @@ Implemented RAFT-style fine-tuning on LLaMA 3.2-3B, LLaMA 3.1-8B, and Qwen3-4B u
 A full-stack AI-powered web application built on a modular multi-agent architecture to support sales representatives with automated customer preparation. Integrates external REST APIs for solar yield estimation, live energy pricing, and subsidy calculations, plus a document retrieval pipeline with voice interaction for context-aware product recommendations — all through scalable backend services.
 
 <div align="center">
-<a href="https://github.com/jahanv01/Qhack-2026">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jahanv01&repo=Qhack-2026&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Cleo - AI Sales Coach"/>
+<a href="https://github.com/jahanv01/Cleo-AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jahanv01&repo=Cleo-AI&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Cleo - AI Sales Coach"/>
 </a>
 </div>
 
@@ -91,7 +91,7 @@ A full-stack AI-powered web application built on a modular multi-agent architect
 | Retrieval | Document retrieval pipeline |
 | Interaction | Voice interaction capabilities |
 
-**🔗 Code:** [Qhack-2026](https://github.com/jahanv01/Qhack-2026)
+**🔗 Code:** [Qhack-2026](https://github.com/jahanv01/Cleo-AI)
 
 <br/>
 
@@ -118,8 +118,8 @@ Identified that delivery service time variance at Flaschenpost SE was **driver-s
 Classifies emotion regulation strategies — Situation Selection, Situation Modification, Attentional Deployment, Cognitive Change, and Response Modulation — from grief-support app journal entries with limited labeled data (300 labeled across 35k+ unlabeled). Benchmarks traditional ML (Naive Bayes, SVM, Random Forest) against transformer models (BERT, EmoBERTa), and applies active learning with uncertainty sampling to cut manual labeling effort by 30% while achieving macro F1 of 0.61 (Journal) and 0.80 (Evening dataset), outperforming all baselines.
 
 <div align="center">
-<a href="https://github.com/jahanv01/Masters-Team-Project-Emotion-Regulation-Classification-Using-Active-Learning">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jahanv01&repo=Masters-Team-Project-Emotion-Regulation-Classification-Using-Active-Learning&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Emotion Regulation Classification Using Active Learning"/>
+<a href="https://github.com/jahanv01/Emotion-Regulation-Classification-Using-Active-Learning">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jahanv01&repo=Emotion-Regulation-Classification-Using-Active-Learning&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Emotion Regulation Classification Using Active Learning"/>
 </a>
 </div>
 
@@ -130,7 +130,7 @@ Classifies emotion regulation strategies — Situation Selection, Situation Modi
 | ML Frameworks | PyTorch, TensorFlow, Scikit-learn |
 | Technique | Active Learning, Data Augmentation |
 
-**🔗 Code:** [Masters-Team-Project-Emotion-Regulation-Classification-Using-Active-Learning](https://github.com/jahanv01/Masters-Team-Project-Emotion-Regulation-Classification-Using-Active-Learning)
+**🔗 Code:** [Emotion-Regulation-Classification-Using-Active-Learning](https://github.com/jahanv01/Emotion-Regulation-Classification-Using-Active-Learning)
 
 <br/>
 
