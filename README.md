@@ -52,7 +52,6 @@ const jahanvi = {
 
 ### 📄 From Standard RAG to RAFT: Grounding in Financial QA
 
-*Master's Thesis, University of Mannheim | Oct 2022 - Apr 2026*
 
 Implemented RAFT-style fine-tuning on LLaMA 3.2-3B, LLaMA 3.1-8B, and Qwen3-4B using LoRA adapters, increasing answer faithfulness by over 20 percentage points and reducing hallucinations on the FINDER financial QA benchmark. Built a full experimental pipeline comparing two retrieval strategies (BM25, E5-Mistral) across three model architectures, with systematic ablations over retrievers, generators, and LoRA configurations, evaluated using the RAGAS framework. Demonstrated zero-shot cross-domain transfer to financial QA by training exclusively on Gorilla APIBench with no domain-specific financial data — showing the grounding behavior generalizes across domains.
 
@@ -75,7 +74,7 @@ Implemented RAFT-style fine-tuning on LLaMA 3.2-3B, LLaMA 3.1-8B, and Qwen3-4B u
 
 ### 🤖 Cleo - AI Sales Coach
 
-*Qhack-26 Hackathon | Apr 2026*
+*Qhack-26 Hackathon 
 
 A full-stack AI-powered web application built on a modular multi-agent architecture to support sales representatives with automated customer preparation. Integrates external REST APIs for solar yield estimation, live energy pricing, and subsidy calculations, plus a document retrieval pipeline with voice interaction for context-aware product recommendations — all through scalable backend services.
 
@@ -98,7 +97,7 @@ A full-stack AI-powered web application built on a modular multi-agent architect
 
 ### 📦 Logimate
 
-*STADS Datathon 2025 — 🥇 1st Place | Mar 2025*
+*STADS Datathon 2025 — 🥇 1st Place 
 
 Identified that delivery service time variance at Flaschenpost SE was **driver-specific rather than order-specific**, and designed a personalized per-driver OLS regression framework across **1.5M+ deliveries** that explained **82% of variance (R²=0.82)** in service time — winning 1st place among 7 competing teams. Extended into a scalable prediction framework supporting continuous model updates for new drivers using reinforcement learning concepts, with real-time caching via ElastiCache for production-style inference.
 
@@ -115,7 +114,6 @@ Identified that delivery service time variance at Flaschenpost SE was **driver-s
 
 ### 🧠 Emotion Regulation Classification Using Active Learning
 
-*Masters Team Project, University of Mannheim | Oct 2024 - Apr 2025*
 
 Classifies emotion regulation strategies — Situation Selection, Situation Modification, Attentional Deployment, Cognitive Change, and Response Modulation — from grief-support app journal entries with limited labeled data (300 labeled across 35k+ unlabeled). Benchmarks traditional ML (Naive Bayes, SVM, Random Forest) against transformer models (BERT, EmoBERTa), and applies active learning with uncertainty sampling to cut manual labeling effort by 30% while achieving macro F1 of 0.61 (Journal) and 0.80 (Evening dataset), outperforming all baselines.
 
