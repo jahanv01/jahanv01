@@ -17,34 +17,41 @@
 
 ## 👋 Who I Am
 
-```typescript
-const jahanvi = {
-  title: "Software Engineer | ML/AI Engineer",
-  stack: {
-    languages: ["Python", "SQL", "R", "JavaScript"],
-    backend: ["FastAPI", "REST APIs"],
-    frontend: ["React", "JavaScript", "HTML", "CSS"],
-    mlFrameworks: ["PyTorch", "TensorFlow", "Scikit-learn", "XGBoost", "Random Forest", "ARIMA", "AdaBoost"],
-    llmAndGenAI: ["Hugging Face Transformers", "LangChain", "LangGraph", "LoRA/PEFT", "RAGAS", "Agent Orchestration", "Prompt Engineering"],
-    nlp: ["BERT", "EmoBERTa", "Sentence-BERT", "FastText", "E5-Mistral", "NLTK", "VADER", "BM25", "TF-IDF"],
-    dataEngineering: ["Pandas", "NumPy", "SciPy", "DuckDB", "Parquet", "ETL Pipelines"],
-    cloudAndDevOps: ["AWS", "Docker", "Git", "Linux", "Vercel", "Render"],
-    dataViz: ["Streamlit", "Plotly", "Matplotlib", "Power BI", "Tableau"],
-  },
-  launchedProjects: [
-    "From Standard RAG to RAFT: A Cross-Domain Study on Grounding in Financial QA",
-    "Cleo - AI Sales Coach",
-    "Logimate (STADS Datathon 2025 — 1st place)",
-    "Emotion Regulation Classification Using Active Learning",
-  ],
-  certifications: [
-    "AWS for Data Science - SimpliLearn",
-    "Introduction to Agent Skills - Anthropic",
-  ],
-  status: "Researching RAFT-style fine-tuning for financial RAG (LLaMA, Qwen3, LoRA) — Master's thesis at University of Mannheim",
-  openTo: ["Software Engineering roles", "Data Science roles", "ML/AI Engineering roles"],
-};
-```
+<div align="center">
+
+![Role](https://img.shields.io/badge/Role-Software%20Engineer%20%7C%20ML%2FAI%20Engineer-0f172a?style=for-the-badge&labelColor=7dd3fc)
+![Status](https://img.shields.io/badge/Status-Researching%20RAFT%20%2F%20RAG%20Fine--Tuning-0f172a?style=for-the-badge&labelColor=7dd3fc)
+
+</div>
+
+> Master's thesis at **University of Mannheim** — RAFT-style fine-tuning for financial RAG on LLaMA & Qwen3, with LoRA adapters.
+
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
+
+**🚀 Launched Projects**
+
+- 📄 From Standard RAG to RAFT — Grounding in Financial QA
+- 🤖 Cleo — AI Sales Coach
+- 📦 Logimate — 🥇 STADS Datathon 2025
+- 🧠 Emotion Regulation Classification (Active Learning)
+
+</td>
+<td valign="top" width="50%">
+
+**📜 Certifications**
+
+- ☁️ AWS for Data Science — *SimpliLearn*
+- 🤝 Introduction to Agent Skills — *Anthropic*
+
+**🎯 Open To**
+
+`Software Engineering` `Data Science` `ML/AI Engineering`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -74,7 +81,7 @@ Implemented RAFT-style fine-tuning on LLaMA 3.2-3B, LLaMA 3.1-8B, and Qwen3-4B u
 
 ### 🤖 Cleo - AI Sales Coach
 
-*Qhack-26 Hackathon* 
+*Qhack-26 Hackathon*
 
 A full-stack AI-powered web application built on a modular multi-agent architecture to support sales representatives with automated customer preparation. Integrates external REST APIs for solar yield estimation, live energy pricing, and subsidy calculations, plus a document retrieval pipeline with voice interaction for context-aware product recommendations — all through scalable backend services.
 
@@ -97,7 +104,7 @@ A full-stack AI-powered web application built on a modular multi-agent architect
 
 ### 📦 Logimate
 
-*STADS Datathon 2025 — 🥇 1st Place* 
+*STADS Datathon 2025 — 🥇 1st Place*
 
 Identified that delivery service time variance at Flaschenpost SE was **driver-specific rather than order-specific**, and designed a personalized per-driver OLS regression framework across **1.5M+ deliveries** that explained **82% of variance (R²=0.82)** in service time — winning 1st place among 7 competing teams. Extended into a scalable prediction framework supporting continuous model updates for new drivers using reinforcement learning concepts, with real-time caching via ElastiCache for production-style inference.
 
@@ -130,7 +137,7 @@ Classifies emotion regulation strategies — Situation Selection, Situation Modi
 | ML Frameworks | PyTorch, TensorFlow, Scikit-learn |
 | Technique | Active Learning, Data Augmentation |
 
-**🔗 Code:** [Emotion-Regulation-Classification-Using-Active-Learning](https://github.com/jahanv01/Emotion-Regulation-Classification-Using-Active-Learning)
+**🔗 Code:** [Masters-Team-Project-Emotion-Regulation-Classification-Using-Active-Learning](https://github.com/jahanv01/Emotion-Regulation-Classification-Using-Active-Learning)
 
 <br/>
 
@@ -138,23 +145,76 @@ Classifies emotion regulation strategies — Situation Selection, Situation Modi
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,js,r" />
+![Python](https://img.shields.io/badge/Python-7dd3fc?style=for-the-badge&logo=python&logoColor=0f172a)
+![SQL](https://img.shields.io/badge/SQL-7dd3fc?style=for-the-badge&logo=postgresql&logoColor=0f172a)
+![R](https://img.shields.io/badge/R-7dd3fc?style=for-the-badge&logo=r&logoColor=0f172a)
+![JavaScript](https://img.shields.io/badge/JavaScript-7dd3fc?style=for-the-badge&logo=javascript&logoColor=0f172a)
 
-**Frontend**
+**Backend & Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css" />
+![FastAPI](https://img.shields.io/badge/FastAPI-7dd3fc?style=for-the-badge&logo=fastapi&logoColor=0f172a)
+![REST APIs](https://img.shields.io/badge/REST_APIs-7dd3fc?style=for-the-badge&logo=swagger&logoColor=0f172a)
+![React](https://img.shields.io/badge/React-7dd3fc?style=for-the-badge&logo=react&logoColor=0f172a)
+![HTML5](https://img.shields.io/badge/HTML5-7dd3fc?style=for-the-badge&logo=html5&logoColor=0f172a)
+![CSS3](https://img.shields.io/badge/CSS3-7dd3fc?style=for-the-badge&logo=css3&logoColor=0f172a)
 
-**Backend / Infra**
+**ML Frameworks**
 
-<img src="https://skillicons.dev/icons?i=fastapi,docker,linux,git" />
+![PyTorch](https://img.shields.io/badge/PyTorch-7dd3fc?style=for-the-badge&logo=pytorch&logoColor=0f172a)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-7dd3fc?style=for-the-badge&logo=tensorflow&logoColor=0f172a)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-7dd3fc?style=for-the-badge&logo=scikitlearn&logoColor=0f172a)
+![XGBoost](https://img.shields.io/badge/XGBoost-7dd3fc?style=for-the-badge)
+![Random Forest](https://img.shields.io/badge/Random_Forest-7dd3fc?style=for-the-badge)
+![ARIMA](https://img.shields.io/badge/ARIMA-7dd3fc?style=for-the-badge)
+![AdaBoost](https://img.shields.io/badge/AdaBoost-7dd3fc?style=for-the-badge)
 
-**Cloud**
+**LLMs & Generative AI**
 
-<img src="https://skillicons.dev/icons?i=aws,vercel,render" />
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-7dd3fc?style=for-the-badge&logo=huggingface&logoColor=0f172a)
+![LangChain](https://img.shields.io/badge/LangChain-7dd3fc?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-7dd3fc?style=for-the-badge)
+![LoRA/PEFT](https://img.shields.io/badge/LoRA%2FPEFT-7dd3fc?style=for-the-badge)
+![RAGAS](https://img.shields.io/badge/RAGAS-7dd3fc?style=for-the-badge)
+![Agent Orchestration](https://img.shields.io/badge/Agent_Orchestration-7dd3fc?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7dd3fc?style=for-the-badge)
 
-**AI / ML / DB**
+**NLP & Text Processing**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,huggingface" />
+![BERT](https://img.shields.io/badge/BERT-7dd3fc?style=for-the-badge)
+![EmoBERTa](https://img.shields.io/badge/EmoBERTa-7dd3fc?style=for-the-badge)
+![Sentence--BERT](https://img.shields.io/badge/Sentence--BERT-7dd3fc?style=for-the-badge)
+![FastText](https://img.shields.io/badge/FastText-7dd3fc?style=for-the-badge)
+![E5--Mistral](https://img.shields.io/badge/E5--Mistral-7dd3fc?style=for-the-badge)
+![NLTK](https://img.shields.io/badge/NLTK-7dd3fc?style=for-the-badge)
+![VADER](https://img.shields.io/badge/VADER-7dd3fc?style=for-the-badge)
+![BM25](https://img.shields.io/badge/BM25-7dd3fc?style=for-the-badge)
+![TF--IDF](https://img.shields.io/badge/TF--IDF-7dd3fc?style=for-the-badge)
+
+**Data Engineering**
+
+![Pandas](https://img.shields.io/badge/Pandas-7dd3fc?style=for-the-badge&logo=pandas&logoColor=0f172a)
+![NumPy](https://img.shields.io/badge/NumPy-7dd3fc?style=for-the-badge&logo=numpy&logoColor=0f172a)
+![SciPy](https://img.shields.io/badge/SciPy-7dd3fc?style=for-the-badge&logo=scipy&logoColor=0f172a)
+![DuckDB](https://img.shields.io/badge/DuckDB-7dd3fc?style=for-the-badge&logo=duckdb&logoColor=0f172a)
+![Parquet](https://img.shields.io/badge/Parquet-7dd3fc?style=for-the-badge&logo=apacheparquet&logoColor=0f172a)
+![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-7dd3fc?style=for-the-badge)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-7dd3fc?style=for-the-badge&logo=amazonaws&logoColor=0f172a)
+![Docker](https://img.shields.io/badge/Docker-7dd3fc?style=for-the-badge&logo=docker&logoColor=0f172a)
+![Git](https://img.shields.io/badge/Git-7dd3fc?style=for-the-badge&logo=git&logoColor=0f172a)
+![Linux](https://img.shields.io/badge/Linux-7dd3fc?style=for-the-badge&logo=linux&logoColor=0f172a)
+![Vercel](https://img.shields.io/badge/Vercel-7dd3fc?style=for-the-badge&logo=vercel&logoColor=0f172a)
+![Render](https://img.shields.io/badge/Render-7dd3fc?style=for-the-badge&logo=render&logoColor=0f172a)
+
+**Data Visualization**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-7dd3fc?style=for-the-badge&logo=streamlit&logoColor=0f172a)
+![Plotly](https://img.shields.io/badge/Plotly-7dd3fc?style=for-the-badge&logo=plotly&logoColor=0f172a)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-7dd3fc?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-7dd3fc?style=for-the-badge&logo=powerbi&logoColor=0f172a)
+![Tableau](https://img.shields.io/badge/Tableau-7dd3fc?style=for-the-badge&logo=tableau&logoColor=0f172a)
 
 <br/>
 
@@ -171,6 +231,11 @@ Classifies emotion regulation strategies — Situation Selection, Situation Modi
 
 <br/>
 
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=jahanv01&theme=nord&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies"/>
+</div>
 
 <br/>
 
