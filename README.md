@@ -74,7 +74,7 @@ Implemented RAFT-style fine-tuning on LLaMA 3.2-3B, LLaMA 3.1-8B, and Qwen3-4B u
 
 ### 🤖 Cleo - AI Sales Coach
 
-*Qhack-26 Hackathon 
+*Qhack-26 Hackathon* 
 
 A full-stack AI-powered web application built on a modular multi-agent architecture to support sales representatives with automated customer preparation. Integrates external REST APIs for solar yield estimation, live energy pricing, and subsidy calculations, plus a document retrieval pipeline with voice interaction for context-aware product recommendations — all through scalable backend services.
 
@@ -97,7 +97,7 @@ A full-stack AI-powered web application built on a modular multi-agent architect
 
 ### 📦 Logimate
 
-*STADS Datathon 2025 — 🥇 1st Place 
+*STADS Datathon 2025 — 🥇 1st Place* 
 
 Identified that delivery service time variance at Flaschenpost SE was **driver-specific rather than order-specific**, and designed a personalized per-driver OLS regression framework across **1.5M+ deliveries** that explained **82% of variance (R²=0.82)** in service time — winning 1st place among 7 competing teams. Extended into a scalable prediction framework supporting continuous model updates for new drivers using reinforcement learning concepts, with real-time caching via ElastiCache for production-style inference.
 
@@ -171,11 +171,6 @@ Classifies emotion regulation strategies — Situation Selection, Situation Modi
 
 <br/>
 
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jahanv01&theme=nord&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies"/>
-</div>
 
 <br/>
 
