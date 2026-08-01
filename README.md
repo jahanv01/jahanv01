@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=220&section=header&text=Jahanvi%20Panchal&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20ML%2FAI%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=220&section=header&text=Jahanvi%20Panchal&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Data%20Scientist%20%7C%20Researcher&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/jahanv01">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+ML%2FAI+Engineer;Building+with+PyTorch%2C+LangChain+%26+LangGraph;RAFT%2FRAG+Fine-Tuning+%2B+NLP+%2B+Time+Series;Turning+Data+Into+Deployable+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+%7C+Data+Scientist+%7C+Researcher;Building+with+PyTorch%2C+LangChain+%26+LangGraph;RAFT%2FRAG+Fine-Tuning+%2B+NLP+%2B+Time+Series;Turning+Data+Into+Deployable+Intelligence" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,7 +18,7 @@
 
 <div align="center">
 
-![Role](https://img.shields.io/badge/Role-Software%20Engineer%20%7C%20ML%2FAI%20Engineer-0f172a?style=for-the-badge&labelColor=7dd3fc)
+![Role](https://img.shields.io/badge/Role-AI%2FML%20Engineer%20%7C%20Data%20Scientist%20%7C%20Researcher-0f172a?style=for-the-badge&labelColor=7dd3fc)
 ![Status](https://img.shields.io/badge/Status-Researching%20RAFT%20%2F%20RAG%20Fine--Tuning-0f172a?style=for-the-badge&labelColor=7dd3fc)
 
 </div>
