@@ -61,11 +61,6 @@
 
 Score any job posting against your profile and generate a tailored cover letter, in one click, from your browser. A Chrome extension reads the job description directly off whatever page you're on — LinkedIn, Indeed, or a company's own careers page — via an on-demand content script gated by a keyword heuristic so it only ever scrapes actual job postings, never unrelated pages. A FastAPI backend scores it against a stored profile using the Gemini API, returning a category-level match breakdown (education, programming, AI/ML, experience), named strengths and gaps, an apply/skip recommendation, and a tailored cover letter — all validated against an explicit response schema before anything is persisted. Fully containerized, CI-tested (lint + tests on every push via GitHub Actions), and deployed to Render.
 
-<div align="center">
-<a href="https://github.com/jahanv01/JobFitAI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jahanv01&repo=JobFitAI&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="JobFitAI"/>
-</a>
-</div>
 
 | Layer | Technology |
 |---|---|
@@ -83,11 +78,6 @@ Score any job posting against your profile and generate a tailored cover letter,
 
 Implemented RAFT-style fine-tuning on LLaMA 3.2-3B, LLaMA 3.1-8B, and Qwen3-4B using LoRA adapters, increasing answer faithfulness by over 20 percentage points and reducing hallucinations on the FINDER financial QA benchmark. Built a full experimental pipeline comparing two retrieval strategies (BM25, E5-Mistral) across three model architectures, with systematic ablations over retrievers, generators, and LoRA configurations, evaluated using the RAGAS framework. Demonstrated zero-shot cross-domain transfer to financial QA by training exclusively on Gorilla APIBench with no domain-specific financial data — showing the grounding behavior generalizes across domains.
 
-<div align="center">
-<a href="https://github.com/jahanv01/Standard-RAG-to-RAFT-in-Finace-QnA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jahanv01&repo=Standard-RAG-to-RAFT-in-Finace-QnA&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="From Standard RAG to RAFT"/>
-</a>
-</div>
 
 | Layer | Technology |
 |---|---|
@@ -106,11 +96,6 @@ Implemented RAFT-style fine-tuning on LLaMA 3.2-3B, LLaMA 3.1-8B, and Qwen3-4B u
 
 A full-stack AI-powered web application built on a modular multi-agent architecture to support sales representatives with automated customer preparation. Integrates external REST APIs for solar yield estimation, live energy pricing, and subsidy calculations, plus a document retrieval pipeline with voice interaction for context-aware product recommendations — all through scalable backend services.
 
-<div align="center">
-<a href="https://github.com/jahanv01/Cleo-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jahanv01&repo=Cleo-AI&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Cleo - AI Sales Coach"/>
-</a>
-</div>
 
 | Layer | Technology |
 |---|---|
@@ -145,11 +130,6 @@ Identified that delivery service time variance at Flaschenpost SE was **driver-s
 
 Classifies emotion regulation strategies — Situation Selection, Situation Modification, Attentional Deployment, Cognitive Change, and Response Modulation — from grief-support app journal entries with limited labeled data (300 labeled across 35k+ unlabeled). Benchmarks traditional ML (Naive Bayes, SVM, Random Forest) against transformer models (BERT, EmoBERTa), and applies active learning with uncertainty sampling to cut manual labeling effort by 30% while achieving macro F1 of 0.61 (Journal) and 0.80 (Evening dataset), outperforming all baselines.
 
-<div align="center">
-<a href="https://github.com/jahanv01/Emotion-Regulation-Classification-Using-Active-Learning">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jahanv01&repo=Emotion-Regulation-Classification-Using-Active-Learning&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Emotion Regulation Classification Using Active Learning"/>
-</a>
-</div>
 
 | Layer | Technology |
 |---|---|
@@ -242,20 +222,7 @@ Classifies emotion regulation strategies — Situation Selection, Situation Modi
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jahanv01&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" alt="Jahanvi's GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahanv01&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Top Languages" height="180"/>
-</div>
-
-<div align="center">
 <img src="https://streak-stats.demolab.com?user=jahanv01&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak Stats"/>
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jahanv01&theme=nord&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies"/>
 </div>
 
 <br/>
