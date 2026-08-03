@@ -222,7 +222,7 @@ Classifies emotion regulation strategies — Situation Selection, Situation Modi
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=jahanv01&theme=default" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=jahanv01&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <br/>
