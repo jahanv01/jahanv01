@@ -23,7 +23,6 @@
 
 </div>
 
-> Master's thesis at **University of Mannheim** — RAFT-style fine-tuning for financial RAG on LLaMA & Qwen3, with LoRA adapters.
 
 <table width="100%">
 <tr>
