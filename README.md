@@ -127,8 +127,7 @@ Identified that delivery service time variance at Flaschenpost SE was driver spe
 
 ### 🧠 Emotion Regulation Classification Using Active Learning
 
-
-Classifies emotion regulation strategies — Situation Selection, Situation Modification, Attentional Deployment, Cognitive Change, and Response Modulation — from grief-support app journal entries with limited labeled data (300 labeled across 35k+ unlabeled). Benchmarks traditional ML (Naive Bayes, SVM, Random Forest) against transformer models (BERT, EmoBERTa), and applies active learning with uncertainty sampling to cut manual labeling effort by 30% while achieving macro F1 of 0.61 (Journal) and 0.80 (Evening dataset), outperforming all baselines.
+Classifies emotion regulation strategies: Situation Selection, Situation Modification, Attentional Deployment, Cognitive Change, and Response Modulation: from grief support app journal entries with limited labeled data (300 labeled across 35k+ unlabeled). Benchmarks traditional ML (Naive Bayes, SVM, Random Forest) against transformer models (BERT, EmoBERTa), and applies active learning with uncertainty sampling to cut manual labeling effort by 30% while achieving macro F1 of 0.61 (Journal) and 0.80 (Evening dataset), outperforming all baselines
 
 
 | Layer | Technology |
