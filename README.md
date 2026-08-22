@@ -58,7 +58,7 @@
 
 ### 🎯 JobFitAI — Job-Match Scoring & Cover Letter Chrome Extension
 
-Score any job posting against your profile and generate a tailored cover letter, in one click, from your browser. A Chrome extension reads the job description directly off whatever page you're on — LinkedIn, Indeed, or a company's own careers page — via an on-demand content script gated by a keyword heuristic so it only ever scrapes actual job postings, never unrelated pages. A FastAPI backend scores it against a stored profile using the Gemini API, returning a category-level match breakdown (education, programming, AI/ML, experience), named strengths and gaps, an apply/skip recommendation, and a tailored cover letter — all validated against an explicit response schema before anything is persisted. Fully containerized, CI-tested (lint + tests on every push via GitHub Actions), and deployed to Render.
+Score any job posting against your profile and generate a tailored cover letter, in one click, from your browser. A Chrome extension reads the job description directly off whatever page you're on, LinkedIn, Indeed, or a company's own careers page, via an on demand content script gated by a keyword heuristic so it only ever scrapes actual job postings, never unrelated pages. A FastAPI backend scores it against a stored profile using the Gemini API, returning a category level match breakdown, education, programming, AI/ML, experience, named strengths and gaps, an apply/skip recommendation, and a tailored cover letter, all validated against an explicit response schema before anything is persisted. Fully containerized, CI tested, lint and tests on every push via GitHub Actions, and deployed to Render.
 
 
 | Layer | Technology |
