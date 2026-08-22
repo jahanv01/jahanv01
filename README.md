@@ -77,6 +77,7 @@ Score any job posting against your profile and generate a tailored cover letter,
 
 Implemented RAFT style fine tuning on LLaMA 3.2 3B, LLaMA 3.1 8B, and Qwen3 4B using LoRA adapters, increasing answer faithfulness by over 20 percentage points and reducing hallucinations on the FINDER financial QA benchmark. Built a full experimental pipeline comparing two retrieval strategies, BM25 and E5 Mistral, across three model architectures, with systematic ablations over retrievers, generators, and LoRA configurations, evaluated using the RAGAS framework. Demonstrated zero shot cross domain transfer to financial QA by training exclusively on Gorilla APIBench with no domain specific financial data, showing the grounding behavior generalizes across domains.
 
+
 | Layer | Technology |
 |---|---|
 | Models | LLaMA 3.2-3B, LLaMA 3.1-8B, Qwen3-4B |
@@ -110,7 +111,8 @@ A full stack AI powered web application built on a modular multi agent architect
 
 *STADS Datathon 2025 — 🥇 1st Place*
 
-Identified that delivery service time variance at Flaschenpost SE was **driver-specific rather than order-specific**, and designed a personalized per-driver OLS regression framework across **1.5M+ deliveries** that explained **82% of variance (R²=0.82)** in service time — winning 1st place among 7 competing teams. Extended into a scalable prediction framework supporting continuous model updates for new drivers using reinforcement learning concepts, with real-time caching via ElastiCache for production-style inference.
+Identified that delivery service time variance at Flaschenpost SE was driver specific rather than order specific, and designed a personalized per driver OLS regression framework across 1.5M+ deliveries that explained 82% of variance (R²=0.82) in service time, winning 1st place among 7 competing teams. Extended into a scalable prediction framework supporting continuous model updates for new drivers using reinforcement learning concepts, with real time caching via ElastiCache for production style inference.
+
 
 | Layer | Technology |
 |---|---|
