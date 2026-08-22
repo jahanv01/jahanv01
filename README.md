@@ -92,7 +92,7 @@ Implemented RAFT style fine tuning on LLaMA 3.2 3B, LLaMA 3.1 8B, and Qwen3 4B u
 
 *Qhack-26 Hackathon*
 
-A full-stack AI-powered web application built on a modular multi-agent architecture to support sales representatives with automated customer preparation. Integrates external REST APIs for solar yield estimation, live energy pricing, and subsidy calculations, plus a document retrieval pipeline with voice interaction for context-aware product recommendations — all through scalable backend services.
+A full stack AI powered web application built on a modular multi agent architecture to support sales representatives with automated customer preparation. Integrates external REST APIs for solar yield estimation, live energy pricing, and subsidy calculations, plus a document retrieval pipeline with voice interaction for context aware product recommendations, all through scalable backend services.
 
 
 | Layer | Technology |
